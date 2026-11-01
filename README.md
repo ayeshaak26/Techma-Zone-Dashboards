@@ -1,3 +1,8 @@
+<img width="1291" height="717" alt="4 - Student   Course Health" src="https://github.com/user-attachments/assets/4d461db1-8b22-44a0-80f4-f50fa3d9de07" />
+<img width="1285" height="722" alt="3 - Finance   Receivables" src="https://github.com/user-attachments/assets/2cc18421-b61f-4d89-b655-487e6f8bb298" />
+
+<img width="1291" height="724" alt="2 - Enrollment   Marketing" src="https://github.com/user-attachments/assets/70ded3a0-29ae-4bcd-96c8-b4f7544a5b41" />
+
 # 📊 Techma Zone: Student Enrollment & Marketing Dashboard
 
 An interactive, 4-page Power BI dashboard designed to track student enrollment lifecycles, optimize marketing lead acquisition, monitor daily attendance, and identify student retention risks.
@@ -30,7 +35,9 @@ An interactive, 4-page Power BI dashboard designed to track student enrollment l
 
 ---
 
-## 💡 Key Business Insights Discovered
+<img width="1291" height="724" alt="2 - Enrollment   Marketing" src="https://github.com/user-attachments/assets/4d566511-daef-4624-8d39-6de580ff06d0" />
+### <img width="1291" height="724" alt="2 - Enrollment   Marketing" src="https://github.com/user-attachments/assets/200b7676-23a5-4171-bb20-c6dacda3db79" />
+💡 Key Business Insights Discovered
 * **Marketing Optimization:** Identified that certain lead sources yielded high initial conversions but massive drop-out rates within the first 30 days.
 * **Attendance Patterns:** Uncovered a statistical drop in attendance on specific days, directly correlating with higher risks in specific cohorts.
 * **Retention Warning System:** Created a risk threshold filter highlighting students with less than 75% attendance for early advisor intervention.
