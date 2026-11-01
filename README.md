@@ -1,7 +1,3 @@
-<img width="1291" height="717" alt="4 - Student   Course Health" src="https://github.com/user-attachments/assets/4d461db1-8b22-44a0-80f4-f50fa3d9de07" />
-<img width="1285" height="722" alt="3 - Finance   Receivables" src="https://github.com/user-attachments/assets/2cc18421-b61f-4d89-b655-487e6f8bb298" />
-
-<img width="1291" height="724" alt="2 - Enrollment   Marketing" src="https://github.com/user-attachments/assets/70ded3a0-29ae-4bcd-96c8-b4f7544a5b41" />
 
 # 📊 Techma Zone: Student Enrollment & Marketing Dashboard
 
@@ -18,25 +14,23 @@ An interactive, 4-page Power BI dashboard designed to track student enrollment l
 * **Purpose:** Tracks the student pipeline from initial application to final registration.
 * **Key Visuals:** Funnel chart showing conversion drop-offs, KPI cards for total enrollment.
 
-### Page 2: Marketing Lead Acquisition
-[Page 2 Screenshot](https://github.com)
+### Page 2: Enrollment & Marketing
+[Page 2 Screenshot](<img width="1291" height="724" alt="2 - Enrollment   Marketing" src="https://github.com/user-attachments/assets/70ded3a0-29ae-4bcd-96c8-b4f7544a5b41" />)
 * **Purpose:** Evaluates which marketing channels yield the highest quality student leads.
 * **Key Visuals:** Bar charts comparing acquisition cost vs. student retention by platform.
 
-### Page 3: Attendance Monitoring
-[Page 3 Screenshot](https://github.com)
+### Page 3: Student Course Health
+[Page 3 Screenshot](<img width="1291" height="717" alt="4 - Student   Course Health" src="https://github.com/user-attachments/assets/4d461db1-8b22-44a0-80f4-f50fa3d9de07" />)
 * **Purpose:** Pinpoints daily and weekly trends in student absences across different cohorts.
 * **Key Visuals:** Heatmap matrix of attendance percentages by day and time.
 
-### Page 4: Retention & Risk Matrix
-[Page 4 Screenshot](https://github.com)
+### Page 4: Finance & Receivables
+[Page 4 Screenshot](<img width="1285" height="722" alt="3 - Finance   Receivables" src="https://github.com/user-attachments/assets/2cc18421-b61f-4d89-b655-487e6f8bb298" />)
 * **Purpose:** An early warning system identifying students at risk of dropping out.
 * **Key Visuals:** Scatter plot showing the correlation between low attendance and failing grades.
 
 ---
 
-<img width="1291" height="724" alt="2 - Enrollment   Marketing" src="https://github.com/user-attachments/assets/4d566511-daef-4624-8d39-6de580ff06d0" />
-### <img width="1291" height="724" alt="2 - Enrollment   Marketing" src="https://github.com/user-attachments/assets/200b7676-23a5-4171-bb20-c6dacda3db79" />
 💡 Key Business Insights Discovered
 * **Marketing Optimization:** Identified that certain lead sources yielded high initial conversions but massive drop-out rates within the first 30 days.
 * **Attendance Patterns:** Uncovered a statistical drop in attendance on specific days, directly correlating with higher risks in specific cohorts.
