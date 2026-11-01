@@ -20,12 +20,12 @@ An interactive, 4-page Power BI dashboard designed to track student enrollment l
 * **Key Visuals:** Bar charts comparing acquisition cost vs. student retention by platform.
 
 ### Page 3: Student Course Health
-[Page 3 Screenshot](<img width="1291" height="717" alt="4 - Student   Course Health" src="https://github.com/user-attachments/assets/4d461db1-8b22-44a0-80f4-f50fa3d9de07" />)
+[Page 3 Screenshot](https://github.com/user-attachments/assets/4d461db1-8b22-44a0-80f4-f50fa3d9de07)
 * **Purpose:** Pinpoints daily and weekly trends in student absences across different cohorts.
 * **Key Visuals:** Heatmap matrix of attendance percentages by day and time.
 
 ### Page 4: Finance & Receivables
-[Page 4 Screenshot](<img width="1285" height="722" alt="3 - Finance   Receivables" src="https://github.com/user-attachments/assets/2cc18421-b61f-4d89-b655-487e6f8bb298" />)
+[Page 4 Screenshot](https://github.com/user-attachments/assets/2cc18421-b61f-4d89-b655-487e6f8bb298)
 * **Purpose:** An early warning system identifying students at risk of dropping out.
 * **Key Visuals:** Scatter plot showing the correlation between low attendance and failing grades.
 
