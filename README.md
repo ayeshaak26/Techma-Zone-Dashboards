@@ -9,7 +9,7 @@ An interactive, 4-page Power BI dashboard designed to track student enrollment l
 ## 📸 Dashboard Walkthrough & Visuals
 
 ### Page 1: Student Enrollment Lifecycle
-[Page 1 Screenshot](https://github.com)
+[Page 1 Screenshot]([https://github.com](https://github.com/ayeshaak26/Techma-Zone-Dashboards/blob/main/1%20-%20Executive%20Overview.png))
 * **Purpose:** Tracks the student pipeline from initial application to final registration.
 * **Key Visuals:** Funnel chart showing conversion drop-offs, KPI cards for total enrollment.
 
