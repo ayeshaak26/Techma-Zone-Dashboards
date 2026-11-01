@@ -15,7 +15,7 @@ An interactive, 4-page Power BI dashboard designed to track student enrollment l
 * **Key Visuals:** Funnel chart showing conversion drop-offs, KPI cards for total enrollment.
 
 ### Page 2: Enrollment & Marketing
-[Page 2 Screenshot](<img width="1291" height="724" alt="2 - Enrollment   Marketing" src="https://github.com/user-attachments/assets/70ded3a0-29ae-4bcd-96c8-b4f7544a5b41" />)
+[Page 2 Screenshot](https://github.com/user-attachments/assets/70ded3a0-29ae-4bcd-96c8-b4f7544a5b41)
 * **Purpose:** Evaluates which marketing channels yield the highest quality student leads.
 * **Key Visuals:** Bar charts comparing acquisition cost vs. student retention by platform.
 
